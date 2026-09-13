@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="SepsisFlow">
+  <rect width="24" height="24" rx="5" fill="#ffffff"/>
+  <circle cx="12" cy="12" r="8.4" fill="none" stroke="#1d1d1f" stroke-width="1.8"/>
+  <circle cx="12" cy="12" r="3.8" fill="#0071e3"/>
+</svg>
